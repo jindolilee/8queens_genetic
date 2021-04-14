@@ -1,2 +1,6 @@
 # 8queens_genetic
-2021_01_KU_
+2021_01_KU_INTRODUCTION_OF_ARTIFICIAL_INTELLIGENCE
+
+2021.04.11.(MON) WEEK6
+
+Genetic Algorithm - 8 Queens
